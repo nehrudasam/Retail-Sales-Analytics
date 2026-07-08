@@ -141,7 +141,7 @@ Retail-Sales-Analytics/
 
 Clone the repository
 
-git clone[ https://github.com/manimalamaha/Retail-Sales-Analytics.git](https://github.com/nehrudasam/Retail-Sales-Analytics)
+git clone(https://github.com/nehrudasam/Retail-Sales-Analytics)
 
 
 Navigate into the project directory
